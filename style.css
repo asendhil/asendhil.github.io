@@ -1,0 +1,47 @@
+﻿h1 {
+	font-family: 'Helvetica';
+	font-size: 5em;
+	color: white
+}
+
+h2 {
+	font-family: 'Helvetica';
+	font-size: 3em;
+	color: white
+}
+
+p {
+	font-family: 'Helvetica';
+	font-size: 2em;
+	color: white
+}
+
+li {
+	font-family: 'Helvetica';
+	font-size: 2em;
+	color: white
+}
+
+#profile_pic {
+	height: 400px;
+
+}
+
+.involvement_icon {
+	height: 75px;
+}
+
+body{
+	background-color: black;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+div{
+	background-color: black;
+}
