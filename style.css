@@ -12,13 +12,13 @@ h2 {
 
 p {
 	font-family: 'Helvetica';
-	font-size: 2em;
+	font-size: 1em;
 	color: white
 }
 
 li {
 	font-family: 'Helvetica';
-	font-size: 2em;
+	font-size: 1em;
 	color: white
 }
 
@@ -28,7 +28,7 @@ li {
 }
 
 .involvement_icon {
-	height: 75px;
+	height: 60px;
 }
 
 body{
