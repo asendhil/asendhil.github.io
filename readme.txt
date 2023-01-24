@@ -1,9 +1,12 @@
 1. The number of assignment points you believe you have completed
-    a.
-    b.
-    c.
-    d.
-    e.
+    a. Readme is complete (1 points) (1/1)
+    b. Includes basic HTML content (3 points) (3/3)
+    c. Includes basic CSS styling (3 points) (3/3)
+    d. Includes an advanced feature (2 point) (2/2)
+    e. Responsive layout (3 points) (3/3)
+    f. Passes three validation checks (1 points) (0.5/1)
+    g. Embracing the spirit of the assignment (2+1 points) (1/2)
+    h. TOTAL: (13.5/15)
 
 2. A list containing the basic HTML content, CSS styling, and advanced feature you included in your portfolio
     a. HTML content
