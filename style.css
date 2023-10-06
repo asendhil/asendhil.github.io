@@ -1,13 +1,13 @@
 ﻿h1 {
 	font-family: 'Helvetica';
 	font-size: 3em;
-	color: White;
+	color: #6d9eeb;
 }
 
 h2 {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: White;
+	color: #6d9eeb;
 }
 
 header img {
@@ -36,7 +36,7 @@ header * {
 nav {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: White;
+	color: #6d9eeb;
 }
 
 .intro {
@@ -57,13 +57,13 @@ nav {
 p {
 	font-family: 'Helvetica';
 	font-size: 1em;
-	color: White;
+	color: #6d9eeb;
 }
 
 li {
 	font-family: 'Helvetica';
 	font-size: 1em;
-	color: white;
+	color: #6d9eeb;
 }
 
 #profile_pic {
