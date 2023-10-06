@@ -1,13 +1,13 @@
 ﻿h1 {
 	font-family: 'Helvetica';
 	font-size: 3em;
-	color: white;
+	color: White;
 }
 
 h2 {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: white;
+	color: White;
 }
 
 header img {
@@ -27,7 +27,7 @@ header {
 }
 
 header * {
-	color: white;
+	color: White;
 	text-decoration: none;
 	margin: 20px;
 	font-size: 1em;
@@ -36,7 +36,7 @@ header * {
 nav {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: white;
+	color: White;
 }
 
 .intro {
@@ -51,13 +51,13 @@ nav {
 	text-align: justify;
 	font-size: 24px;
 	font-family: 'Helvetica';
-	color: #fbca89;
+	color: #White;
 }
 
 p {
 	font-family: 'Helvetica';
 	font-size: 1em;
-	color: white;
+	color: White;
 }
 
 li {
