@@ -1,13 +1,13 @@
 ﻿h1 {
 	font-family: 'Helvetica';
 	font-size: 3em;
-	color: #6d9eeb;
+	color: White;
 }
 
 h2 {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: #6d9eeb;
+	color: White;
 }
 
 header img {
@@ -36,7 +36,7 @@ header * {
 nav {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: #6d9eeb;
+	color: White;
 }
 
 .intro {
@@ -51,19 +51,19 @@ nav {
 	text-align: justify;
 	font-size: 24px;
 	font-family: 'Helvetica';
-	color: #6d9eeb; <!-- off-white-->
+	color: #888888; <!-- off-white-->
 }
 
 p {
 	font-family: 'Helvetica';
 	font-size: 1em;
-	color: #6d9eeb;
+	color: White;
 }
 
 li {
 	font-family: 'Helvetica';
 	font-size: 1em;
-	color: #6d9eeb;
+	color: white;
 }
 
 #profile_pic {
