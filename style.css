@@ -27,7 +27,7 @@ header {
 }
 
 header * {
-	color: #f3f8e3;
+	color: #f5f4df; <!-- off white->
 	text-decoration: none;
 	margin: 20px;
 	font-size: 1em;
@@ -51,7 +51,7 @@ nav {
 	text-align: justify;
 	font-size: 24px;
 	font-family: 'Helvetica';
-	color: #f3f8e3; <!-- off-white-->
+	color: #f5f4df; <!-- off-white-->
 }
 
 p {
