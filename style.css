@@ -61,6 +61,22 @@ nav {
 	font-family: 'Helvetica';
 }
 
+.homecontainter {
+	align-items: center;
+  justify-content: center;
+}
+
+.homeimage {
+	float: left;
+	padding-left: 10px;
+}
+
+.hometext {
+	font-family: 'Helvetica';
+	font-size: 18px;
+	color: #fed053; * light yellow */
+}
+
 .intro {
 	display: flex;
 	flex-direction: column;
@@ -98,13 +114,15 @@ li {
 	height: 60px;
 }
 
+/*
 body{
-	/*background-color: black;*/
+	/*background-color: black;*
 	height: 125vh;
 	margin-top: 80px;
 	padding: 30px;
 
 }
+*/
 
 .container {
 	display: flex;
