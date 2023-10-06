@@ -1,13 +1,13 @@
 ﻿h1 {
 	font-family: 'Helvetica';
 	font-size: 3em;
-	color: #fbca89;
+	color: #ffffff;
 }
 
 h2 {
 	font-family: 'Helvetica';
 	font-size: 2em;
-	color: #fbca89;
+	color: #ffffff;
 }
 
 header img {
@@ -15,7 +15,7 @@ header img {
 }
 
 header {
-	background-color: #6d9eeb;
+	background-color: #3b3f46; <!-- light gray-->
   position: fixed;
   top: 0;
   left: 0;
