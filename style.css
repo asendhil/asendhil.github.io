@@ -15,30 +15,19 @@ h2 {
 }
 
 /*
-header {
-	background-color: #3b3f46; <!-- light gray-->
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 80px;
-	width: 100%;
-	display: flex;
-	align-items: center;
-	box-shadow: 0 0 25px black;
-}
-*/
 .navbar * {
 	color: #f5f4df; <!-- off white->
 	text-decoration: none;
 	margin: 20px;
 	font-size: 1em;
 }
+*/
 
 nav {
 	font-family: 'Helvetica';
 	font-size: 20px;
 	color: #f5f4df;
+	text-decoration: none;
 }
 
 /* The navigation bar */
