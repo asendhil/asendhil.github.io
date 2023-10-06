@@ -23,12 +23,14 @@ h2 {
 }
 */
 
+/*
 nav {
 	font-family: 'Helvetica';
 	font-size: 20px;
 	color: #f5f4df;
 	text-decoration: none;
 }
+*
 
 /* The navigation bar */
 .navbar {
@@ -56,6 +58,7 @@ nav {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+	font-family: 'Helvetica';
 }
 
 .intro {
