@@ -62,10 +62,8 @@ h2 {
 }
 
 /* aligning navbar items right */
-.navbar .navbar-right {
-	/*padding-right: 40px;*/
-	float: right;
-
+.navbar-right {
+	align-items: right;
 }
 
 .homecontainter {
