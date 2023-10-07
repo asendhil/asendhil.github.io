@@ -51,7 +51,8 @@ nav {
 
 .navbutton {
   background-color: #fed053; /* light yellow */
-  border: none;
+	border: 1px solid #fed053;
+	border-radius: 10px;
   color: black;
   padding: 8px 20px;
   text-align: center;
