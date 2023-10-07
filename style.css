@@ -66,7 +66,7 @@ h2 {
 	align-items: right;
 }
 
-.bodycontainter {
+.homecontainer {
 	align-items: center;
   justify-content: center;
 	padding-top: 120px;
@@ -89,6 +89,8 @@ h2 {
 }
 
 .resume_containter {
+	align-items: center;
+	display: flex;
 	padding-left: 160px;
 	padding-right: 160px;
 }
