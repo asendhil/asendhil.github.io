@@ -31,8 +31,9 @@ h2 {
 	box-shadow: 0 0 25px black;
 }
 
+/* navbar inactive links */
 .navbar a {
-  background-color: #3b3f46; /* light yellow  #fed053 */
+  background-color: #3b3f46; /* light gray */
 	border: 1px solid #3b3f46;
 	border-radius: 25px;
   color: white;
@@ -44,38 +45,25 @@ h2 {
 	font-family: 'Helvetica';
 }
 
+/* navbar hover link design */
 .navbar a:hover {
 	background-color: white;
 	border: 1px solid black;
 	border-radius: 25px;
 	color: black;
-	/*
-	padding: 8px 20px;
-	text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-	font-family: 'Helvetica';
-	*/
 }
 
+/* navbar active page link design */
 .navbar a.active {
 	background-color: #fed053;
 	border: 1px solid #fed053;
 	border-radius: 25px;
 	color: black;
-	/*
-	padding: 8px 20px;
-	text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-	font-family: 'Helvetica';
-	*/
 }
 
+/* aligning navbar items right */
 .navbar-right {
-	padding-right: 40px;
+	/*padding-right: 40px;*/
 	float: right;
 
 }
