@@ -89,7 +89,7 @@ h2 {
 }
 
 .resume_container {
-	align-items: center;
+	/*align-items: center;*/
 	display: flex;
 	padding-top: 120px;
 	padding-left: 160px;
@@ -101,14 +101,17 @@ h2 {
 }
 
 #resume_org_title {
+	font-size: 18px;
 	padding-left: 20px;
 }
 
 #resume_location {
+	text-align: right;
 	float: right;
 }
 
 #resume_dates {
+	text-align: right;
 	float: right;
 }
 
