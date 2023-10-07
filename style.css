@@ -72,15 +72,15 @@ nav {
 
 .homeimage {
 	float: left;
-	padding-left: 20;
+	padding-left: 40px;
 }
 
 .hometext {
 	font-family: 'Helvetica';
 	font-size: 18px;
-	color: #fed053; * light yellow */
+	color: white;
 	padding-left: 20px;
-	padding-right: 20px;
+	padding-right: 40px;
 }
 
 .intro {
