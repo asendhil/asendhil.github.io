@@ -88,9 +88,10 @@ h2 {
 	padding-right: 100px;
 }
 
-.resume_containter {
+.resume_container {
 	align-items: center;
 	display: flex;
+	padding-top: 120px;
 	padding-left: 160px;
 	padding-right: 160px;
 }
