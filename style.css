@@ -62,7 +62,7 @@ h2 {
 }
 
 /* aligning navbar items right */
-.navbar-right {
+.navbar .navbar-right {
 	/*padding-right: 40px;*/
 	float: right;
 
