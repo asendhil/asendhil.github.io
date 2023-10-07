@@ -6,31 +6,13 @@
 
 h2 {
 	font-family: 'Helvetica';
-	font-size: 2em;
+	font-size: 20px;
 	color: White;
 }
 
 .navbar img {
 	height: 80px;
 }
-
-/*
-.navbar * {
-	color: #f5f4df; <!-- off white->
-	text-decoration: none;
-	margin: 20px;
-	font-size: 1em;
-}
-*/
-
-/*
-nav {
-	font-family: 'Helvetica';
-	font-size: 20px;
-	color: #f5f4df;
-	text-decoration: none;
-}
-*
 
 /* The navigation bar */
 .navbar {
