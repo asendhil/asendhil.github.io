@@ -28,6 +28,7 @@
     c. https://learn.coderslang.com/0110-how-to-create-multiple-pages-in-html/
     d. https://codetheweb.blog/style-a-navigation-bar-css/
     e. https://www.w3schools.com/howto/howto_css_border_image.asp
+    f. https://www.w3schools.com/howto/howto_css_topnav_right.asp
 
 
 5. A list of classmates or other individuals you consulted
