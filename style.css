@@ -88,19 +88,25 @@ h2 {
 	padding-right: 100px;
 }
 
-.intro {
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-	align-items: flex-start;
-	margin-left: 300px;
+.resume_containter {
+	padding-left: 160px;
+	padding-right: 160px;
 }
 
-.intro .content {
-	text-align: justify;
-	font-size: 24px;
-	font-family: 'Helvetica';
-	color: #f5f4df; <!-- off-white-->
+#resume_section_title {
+	font-size: 28px
+}
+
+#resume_org_title {
+	padding-left: 20px;
+}
+
+#resume_location {
+	float: right;
+}
+
+#resume_dates {
+	float: right;
 }
 
 p {
@@ -119,7 +125,6 @@ li {
 	height: 400px;
 	border: 5px solid #fed053;
 	border-radius: 25px;
-	/*padding-right: 40px;*/
 	box-shadow: 0 0 25px ##fed053;
 
 }
