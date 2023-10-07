@@ -157,9 +157,9 @@ body{
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Helvetica';
   margin: 0;
-  padding: 20px;
+  padding: 160px;
 }
 
 .resume {
