@@ -63,7 +63,8 @@ nav {
 
 .navbar .navbuttoncontainair {
 	padding-right: 40px;
-	padding-left: 300px;
+	align-items: right;
+
 }
 
 .homecontainter {
