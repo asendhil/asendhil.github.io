@@ -62,19 +62,22 @@ nav {
 }
 
 .homecontainter {
+	padding-top: 100px;
 	align-items: center;
   justify-content: center;
 }
 
 .homeimage {
 	float: left;
+	padding-left: 20;
 }
 
 .hometext {
 	font-family: 'Helvetica';
 	font-size: 18px;
 	color: #fed053; * light yellow */
-	padding-left: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .intro {
