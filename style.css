@@ -71,22 +71,22 @@ nav {
 	align-items: center;
   justify-content: center;
 	padding-top: 120px;
-	padding-left: 40px;
-	padding-right: 40px;
+	padding-left: 100px;
+	padding-right: 100px;
 	display: flex;
 }
 
 .homeimage {
 	float: left;
-	padding-left: 40px;
+	/*padding-left: 100px;*/
 }
 
 .hometext {
 	font-family: 'Helvetica';
 	font-size: 18px;
 	color: white;
-	padding-left: 20px;
-	padding-right: 40px;
+	/*padding-left: 40px;
+	padding-right: 40px;*/
 }
 
 .intro {
