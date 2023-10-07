@@ -62,7 +62,7 @@ nav {
 	font-family: 'Helvetica';
 }
 
-.navbar .navbuttoncontainair {
+.navbuttoncontainer {
 	padding-right: 40px;
 	align-items: right;
 
