@@ -213,8 +213,8 @@ body {
   /*margin-bottom: 5px;*/
 }
 
-.section ul li::before {
-	content: '\2022';
+.section li::before {
+	content: "\2022";
 	color: #fed053;
 	/*margin-left: 20px;*/
   font-weight: bold; /* If you want it to be bold */
