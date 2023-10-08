@@ -143,7 +143,7 @@ body {
 }
 
 .section {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .section h2 {
@@ -165,7 +165,7 @@ body {
 
 .section ul li {
   font-size: 16px;
-	margin-left: 15px;
+	margin-left: 10px;
   /*margin-bottom: 5px;*/
 }
 
@@ -175,7 +175,7 @@ body {
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 10px; /* Also needed for space (tweak if needed) */
-  margin-left: 20px; /* Also needed for space (tweak if needed) */
+  margin-left: 10px; /* Also needed for space (tweak if needed) */
 }
 
 #resume_pos_duration {
