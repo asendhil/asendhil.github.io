@@ -175,6 +175,7 @@ body {
 
 .header h1 {
   font-size: 36px;
+	color: #fed053;
   margin: 0;
 }
 
@@ -189,22 +190,22 @@ body {
 
 .section h2 {
   font-size: 24px;
+	color: #fed053;
   margin-bottom: 10px;
 }
 
 .section p {
-  font-size: 18px;
+  font-size: 16px;
   margin: 0 0 5px;
 }
 
 .section ul {
   list-style-type:disc;
-	list-style-co
   padding: 0;
 }
 
 .section ul li {
-  font-size: 18px;
+  font-size: 16px;
 	margin-left: 10px;
   margin-bottom: 5px;
 	color: #fed053;
