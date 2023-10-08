@@ -223,10 +223,18 @@ body {
   margin-left: 30px; /* Also needed for space (tweak if needed) */
 }
 
-#resume_position {
+#resume_pos_duration {
 	font-style: italic;
 }
 
-#resume_organization {
+#resume_org_loc {
 	font-weight: bold;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right
 }
