@@ -231,10 +231,10 @@ body {
 	font-weight: bold;
 }
 
-.alignleft {
+.section .alignleft {
 	float: left;
 }
 
-.alignright {
+.section .alignright {
 	float: right
 }
