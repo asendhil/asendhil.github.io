@@ -123,7 +123,7 @@ body {
 }
 
 .resume {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -147,25 +147,25 @@ body {
 }
 
 .section h2 {
-	margin-top: 5px;
+	/*margin-top: 5px;*/
   font-size: 24px;
 	color: #fed053;
   /*margin-bottom: 10px;*/
 }
 
 .section p {
-  font-size: 14px;
+  font-size: 15px;
   margin: 0 0 5px;
 }
 
 .section ul {
   list-style-type: none;
   padding: 0;
-	margin-top: -8px;
+	margin-top: -4px;
 }
 
 .section ul li {
-  font-size: 14px;
+  font-size: 15px;
 	margin-left: 10px;
   /*margin-bottom: 5px;*/
 }
