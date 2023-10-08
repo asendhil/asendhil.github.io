@@ -15,7 +15,7 @@
         III. Multiple pages, with appropriate navigation between them
     b. CSS styling
         I. Modifying padding and margins to indent content and enhance readability
-        II. Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the Resources section
+        II. Modifying link, text color, or other colors to be visually appealing, perhaps with one of the palette creators in the Resources section
     c. Advanced feature
         I. Embedded HTML5 media, like video or audio, with fallbacks
 
@@ -30,6 +30,7 @@
     e. https://www.w3schools.com/howto/howto_css_border_image.asp
     f. https://www.w3schools.com/howto/howto_css_topnav_right.asp
     g. https://www.w3schools.com/howto/howto_css_bullet_color.asp
+    h. https://css-tricks.com/left-align-and-right-align-text-on-the-same-line/
 
 
 5. A list of classmates or other individuals you consulted
