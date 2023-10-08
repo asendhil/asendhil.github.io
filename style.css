@@ -203,7 +203,7 @@ body {
 }
 
 .section ul {
-  list-style-type:disc;
+  list-style-type: none;
   padding: 0;
 }
 
@@ -214,8 +214,13 @@ body {
 }
 
 .section ul li::before {
+	content: '\2022';
 	color: #fed053;
-	margin-left: 20px;
+	/*margin-left: 20px;*/
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
 
 #resume_position {
