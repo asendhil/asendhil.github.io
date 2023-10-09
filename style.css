@@ -90,6 +90,10 @@ h2 {
 		background-color: #fed053;
 	}
 
+.dropdown: hover .dropdown-content {
+	display: block;
+}
+
 .homecontainer {
 	align-items: center;
   justify-content: center;
