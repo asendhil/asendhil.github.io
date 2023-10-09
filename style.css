@@ -196,14 +196,14 @@ body {
 }
 
 .project_card {
-	box-shadow: 0 4px 8px 0 #3b3f46;
+	box-shadow: 0 4px 8px 0 #000000;
 	transition: 0.3s;
 	width: 40%;
 	border-radius: 25px;
 }
 
 .project_card: hover{
-	box-shadow: 0 8px 16px 0 #3b3f46;
+	box-shadow: 0 8px 16px 0 #000000;
 }
 
 #project_image {
