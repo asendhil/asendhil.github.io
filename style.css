@@ -51,9 +51,9 @@ h2 {
 	background-color: inherit;
 	font-family: inherit;
 	font-size: inherit;
-	border: inherit;
-	color: inherit;
-	padding: inherit;
+	border: 1px solid #3b3f46;
+	color: white;
+	padding: 8px 20px;
 	text-align: inherit;
 	margin: 0;
 	outline: none;
