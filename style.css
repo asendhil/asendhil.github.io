@@ -262,6 +262,11 @@ body {
 	padding: 2px 16px;
 }
 
+.project_card a {
+	text-decoration: none;
+	color: white;
+}
+
 .project_card h1 {
 	font-size: 18px;
 }
