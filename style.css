@@ -90,7 +90,7 @@ h2 {
 		background-color: #fed053;
 	}
 
-.navbar .dropdown: hover .dropdown-content {
+.navbar .dropdown: hover .navbar .dropdown-content {
 	display: block;
 }
 
