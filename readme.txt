@@ -32,6 +32,7 @@
     g. https://www.w3schools.com/howto/howto_css_bullet_color.asp
     h. https://css-tricks.com/left-align-and-right-align-text-on-the-same-line/
     i. https://www.w3schools.com/howto/howto_css_cards.asp
+    j. https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp
 
 
 5. A list of classmates or other individuals you consulted
