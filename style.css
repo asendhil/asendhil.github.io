@@ -274,3 +274,8 @@ body {
 .project_card p {
 	font-size: 16px;
 }
+
+#header_img {
+	flex: center;
+	width: 100%
+}
