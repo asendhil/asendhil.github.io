@@ -286,8 +286,8 @@ body {
 	/*padding-right: 300px;*/
 	padding-top: 120px;
 	padding-bottom: 120px;
-	width:60%;
-	flex: center;
+	width:75%;
+	float: center;
 }
 
 .essay p {
