@@ -282,10 +282,12 @@ body {
 
 .essay {
 	font-family: 'Helvetica';
-	padding-left: 300px;
-	padding-right: 300px;
+	/*padding-left: 300px;*/
+	/*padding-right: 300px;*/
 	padding-top: 120px;
 	padding-bottom: 120px;
+	width:60%;
+	flex: center;
 }
 
 .essay p {
