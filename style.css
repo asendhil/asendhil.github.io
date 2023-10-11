@@ -287,7 +287,7 @@ body {
 	padding-top: 120px;
 	padding-bottom: 120px;
 	width:75%;
-	float: center;
+	align-items: center;
 }
 
 .essay p {
@@ -295,5 +295,37 @@ body {
 }
 
 .essay h1 {
+	color: #fed053;
 	font-size: 32px;
+}
+
+.essay h2 {
+	color: #fed053;
+	font-size: 24;
+}
+
+.essay ul {
+  list-style-type: none;
+  padding: 0;
+	color: white;
+	/*margin-top: -2px;*/
+}
+
+.essay ul li {
+  font-size: 16px;
+	margin-left: 10px;
+  /*margin-bottom: 5px;*/
+}
+
+.essay li::before {
+	content: "\2022";
+	color: #fed053;
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 16px; /* Also needed for space (tweak if needed) */
+  margin-left: 8px; /* Also needed for space (tweak if needed) */
+}
+
+.essay li a {
+	color: white;
 }
