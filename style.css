@@ -242,7 +242,7 @@ body {
 .project_card {
 	box-shadow: 0 4px 8px 0 black;
 	transition: 0.3s;
-	width: 40%;
+	width: 25%;
 	border-radius: 25px;
 	background-color: #3b3f46;
 	font-family: 'Helvetica';
@@ -285,7 +285,7 @@ body {
 
 //*remove extra left and right margins*/
 .row {
-	margin; 0 -5px;
+	margin: 0 -5px;
 }
 
 /*clear floats after the columns*/
