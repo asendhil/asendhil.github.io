@@ -245,6 +245,12 @@ body {
 	float: right
 }
 
+.card_padding {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
 .project_card {
 	box-shadow: 0 4px 8px 0 black;
 	transition: 0.3s;
