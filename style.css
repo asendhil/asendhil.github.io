@@ -386,3 +386,8 @@ body {
 .essay li a {
 	color: white;
 }
+
+.project_page .body {
+	padding-top: 120px;
+	width: 75%;
+}
