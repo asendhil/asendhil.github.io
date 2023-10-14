@@ -34,6 +34,7 @@
     i. https://www.w3schools.com/howto/howto_css_cards.asp
     j. https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp
     k. https://www.w3schools.com/howto/howto_css_column_cards.asp
+    l. https://stackoverflow.com/questions/14676613/how-to-import-google-web-font-in-css-file
 
 
 5. A list of classmates or other individuals you consulted
