@@ -291,7 +291,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	width: 50%;
-	align-items: center;
+	align-content: space-around;
 }
 
 /*creating card containters*/
