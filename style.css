@@ -395,17 +395,17 @@ body {
 .content_row {
 	display: flex;
 	flex-direction: row;
-	width: 75%;
+	width: 100%;
 	align-content: center;
 }
 
 .proj_section_title {
 	flex-direction: column;
-	width: 20%;
+	width: 25%%;
 	flex: 1;
 }
 
 .proj_section_description {
 	flex-direction: column;
-	width: 80%;
+	width: 75%%;
 }
