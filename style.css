@@ -4,13 +4,13 @@
 
 h1 {
 	font-family: 'Koulen', sans-serif;
-	font-size: 32px;
+	font-size: 48px;
 	color: White;
 }
 
 h2 {
 	font-family: 'Koulen', sans-serif;
-	font-size: 20px;
+	font-size: 30px;
 	color: White;
 }
 
@@ -41,7 +41,7 @@ h2 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
 	font-family: 'Koulen', sans-serif;
 }
 
@@ -181,7 +181,7 @@ body {
 
 .header h1 {
 	font-family: 'Koulen', sans-serif;
-  font-size: 36px;
+  font-size: 48px;
 	color: #fed053;
   margin: 0;
 }
@@ -198,7 +198,7 @@ body {
 
 .section h2 {
 	/*margin-top: 5px;*/
-  font-size: 24px;
+  font-size: 32px;
 	color: #fed053;
   /*margin-bottom: 10px;*/
 }
@@ -287,7 +287,7 @@ body {
 
 .project_card h1 {
 	font-family: 'Koulen', sans-serif;
-	font-size: 18px;
+	font-size: 27px;
 }
 
 .project_card p {
@@ -353,13 +353,13 @@ body {
 .essay h1 {
 	font-family: 'Koulen', sans-serif;
 	color: #fed053;
-	font-size: 32px;
+	font-size: 48px;
 }
 
 .essay h2 {
 	font-family: 'Koulen', sans-serif;
 	color: #fed053;
-	font-size: 24;
+	font-size: 32;
 }
 
 .essay ul {
