@@ -392,16 +392,17 @@ body {
 	width: 75%;
 }
 
-.proj_section_row {
-	width: 100%;
+.content_row {
 	display: flex;
 	flex-direction: row;
+	width: 75%;
+	align-content: center;
 }
 
 .proj_section_title {
-	height: 100%;
 	flex-direction: column;
 	width: 20%;
+	flex: 1;
 }
 
 .proj_section_description {
