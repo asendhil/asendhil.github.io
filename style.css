@@ -387,9 +387,63 @@ body {
 	color: white;
 }
 
-.project_page .body {
+.project_page body {
 	padding-top: 120px;
 	width: 75%;
+}
+
+.project_page h1 {
+	font-family: 'Koulen', sans-serif;
+	color: #fed053;
+	font-size: 48px;
+}
+
+.project_page h2 {
+	font-family: 'Koulen', sans-serif;
+	color: #fed053;
+	font-size: 36px;
+}
+
+.project_page p {
+	font-family: 'Manrope', sans-serif;
+	color: white;
+	font-size: 18px;
+}
+
+.project_page ul {
+  list-style-type: none;
+  padding: 0;
+	color: white;
+}
+
+.project_page ul li {
+  font-size: 16px;
+	margin-left: 10px;
+}
+
+.project_page li::before {
+	content: "\2022";
+	color: #fed053;
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 16px; /* Also needed for space (tweak if needed) */
+  margin-left: 8px; /* Also needed for space (tweak if needed) */
+}
+
+.project_page ol {
+	list-style-type: none;
+  padding: 0;
+	color: white;
+}
+
+.project_page ol ul li::before{
+	list-style-type: circle;
+	content: "\2022";
+	color: #fed053;
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 16px; /* Also needed for space (tweak if needed) */
+  margin-left: 8px; /* Also needed for space (tweak if needed) */
 }
 
 .content_row {
