@@ -437,6 +437,13 @@ body {
 	color: white;
 }
 
+.project_page ol li {
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	margin-left: 15px;
+}
+
 .project_page ol ul li::before {
 	list-style-type: circle;
 	content: "\2022";
