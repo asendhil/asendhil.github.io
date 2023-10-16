@@ -290,7 +290,8 @@ body {
 	display: flex;
 	flex-direction: row;
 	width: 75%;
-	align-content: center;
+	/*align-content: center;*/
+	justify-content: center;
 }
 
 /*creating card containters*/
@@ -401,6 +402,7 @@ body {
 	font-family: 'Manrope', sans-serif;
 	color: white;
 	font-size: 18px;
+	margin-top: -20px;
 }
 
 .project_page ul {
