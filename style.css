@@ -470,6 +470,12 @@ body {
 	padding-bottom: 3px;
 }
 
+.project_page ol li ul li ul li {
+	font-size: 18px;
+	margin-left: 30px;
+	padding-bottom: 3px;
+}
+
 .content_row {
 	display: flex;
 	flex-direction: row;
