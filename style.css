@@ -446,9 +446,10 @@ body {
 
 .project_page ol li ul li {
 	color: white;
-	font-size: 18px;
+	font-size: 20px;
 	margin-left: 15px;
 	padding-bottom: 3px;
+	font-weight: bold;
 }
 
 .project_page ol ul li::before {
