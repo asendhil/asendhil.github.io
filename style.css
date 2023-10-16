@@ -436,6 +436,7 @@ body {
 	/*list-style-type:*/
   padding: 0;
 	color: white;
+	margin-left: 10px;
 }
 
 .project_page ol li {
