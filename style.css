@@ -126,9 +126,10 @@ h2 {
 }
 
 .hometext {
+	/*
 	font-family: 'Manrope', sans-serif;
 	font-size: 18px;
-	color: white;
+	color: white;*/
 	padding-left: 40px;
 	/*padding-right: 100px;*/
 }
@@ -140,15 +141,16 @@ h2 {
 	box-shadow: 0 4px 8px 0 black;
 }
 
-p {
+.hometext p {
 	font-family: 'Manrope', sans-serif;
 	font-size: 16px;
 	color: White;
+	padding-bottom: 5px;
 }
 
 li {
 	font-family: 'Manrope', sans-serif;
-	font-size: 1em;
+	font-size: 16px;
 	color: white;
 }
 
