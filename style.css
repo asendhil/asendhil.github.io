@@ -440,7 +440,12 @@ body {
 .project_page ol li {
 	color: white;
 	font-size: 24px;
-	font-weight: bold;
+	margin-left: 15px;
+}
+
+.project_page ol li ul li {
+	color: white;
+	font-size: 18px;
 	margin-left: 15px;
 }
 
