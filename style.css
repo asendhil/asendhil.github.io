@@ -340,7 +340,9 @@ body {
 }
 
 .essay .tab {
-	tab-size: 4;
+	/*tab-size: 4;*/
+	display: inline-block;
+	margin-left: 30px;
 }
 
 .essay p {
