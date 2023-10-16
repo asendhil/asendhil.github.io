@@ -111,11 +111,10 @@ h2 {
 }
 
 .homecontainer {
-	/*align-items: center;*/
   justify-content: center;
-	padding-top: 120px;
+	/*padding-top: 120px;
 	padding-left: 120px;
-	padding-right: 120px;
+	padding-right: 120px;*/
 	display: flex;
 	max-width: 100%;
 }
@@ -126,25 +125,11 @@ h2 {
 	border: 5px solid #fed053;
 	border-radius: 25px;
 	box-shadow: 0 4px 8px 0 black;
-	/*padding-left: 40px;*/
 }
 
 .hometext {
-	/*
-	font-family: 'Manrope', sans-serif;
-	font-size: 18px;
-	color: white;*/
 	padding-left: 40px;
-	/*padding-right: 100px;*/
 }
-
-/*
-#profile_pic {
-	height: 450px;
-	border: 5px solid #fed053;
-	border-radius: 25px;
-	box-shadow: 0 4px 8px 0 black;
-}*/
 
 .hometext p {
 	font-family: 'Manrope', sans-serif;
@@ -211,6 +196,7 @@ body {
 
 .section p {
   font-size: 16px;
+	color: white;
   margin: 0 0 5px;
 }
 
@@ -252,8 +238,6 @@ body {
 }
 
 .card_padding {
-	/*padding-left: 20px;
-	padding-right: 20px;*/
 	padding-bottom: 40px;
 }
 
