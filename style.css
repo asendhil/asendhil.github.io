@@ -339,6 +339,10 @@ body {
 	align-items: center;
 }
 
+.essay .tab {
+	tab-size: 4;
+}
+
 .essay p {
 	font-size: 16px;
 	color: white;
