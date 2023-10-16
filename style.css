@@ -471,10 +471,14 @@ body {
 	font-weight: bold;
 }
 
-.project_page ol ul ul  {
-	font-size: 18px;
-	margin-left: 30px;
-	padding-bottom: 3px;
+.project_page ol ul ul li::before {
+	list-style-type: circle;
+	content: "\2022";
+	color: #fed053;
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 16px; /* Also needed for space (tweak if needed) */
+  margin-left: 15px; /* Also needed for space (tweak if needed) */
 }
 
 .content_row {
