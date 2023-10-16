@@ -269,10 +269,11 @@ body {
 	height: 100%;
 	display: flex;
 	flex-direction: column;
+	color: white;
 }
 
 .project_card a {
-	text-decoration: none;
+	/*text-decoration: none;*/
 	color: white;
 }
 
