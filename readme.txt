@@ -4,23 +4,25 @@
     c. Includes basic CSS styling (3 points) (3/3)
     d. Includes an advanced feature (2 point) (2/2)
     e. Responsive layout (3 points) (3/3)
-    f. Passes three validation checks (1 points) (0.5/1)
-    g. Embracing the spirit of the assignment (2+1 points) (1/2)
-    h. TOTAL: (13.5/15)
+    f. Passes three validation checks (1 points) (1/1)
+    g. Embracing the spirit of the assignment (2+1 points) (2/2)
+    h. TOTAL: (15/15)
 
 2. A list containing the basic HTML content, CSS styling, and advanced feature you included in your portfolio
     a. HTML content
         I. At least one image, with descriptive alt attribute(s)
-        II. Links to external page(s)
-        III. Multiple pages, with appropriate navigation between them
+        II. Appropriate headings and paragraph text
+        III. Links to external page(s)
+        IV. Multiple pages, with appropriate navigation between them
     b. CSS styling
         I. Modifying padding and margins to indent content and enhance readability
         II. Modifying link, text color, or other colors to be visually appealing, perhaps with one of the palette creators in the Resources section
+        III. Adding custom font(s) from Google fonts to add more personality
     c. Advanced feature
         I. Embedded HTML5 media, like video or audio, with fallbacks
 
 3. How long it took you to complete the assignment
-    a. Approximately, it took six hours to watch the live demo & complete the assignment.
+    a. Approximately, it took 15 hours to complete the assignment during the assignment period.
 
 4. A list of urls of the online resources you consulted
     a. https://www.scaler.com/topics/html-background-image-full-screen/
